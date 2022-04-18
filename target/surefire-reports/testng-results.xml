@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2022-04-11T07:14:15Z" finished-at="2022-04-11T07:14:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2022-04-11T07:14:15Z" finished-at="2022-04-11T07:14:15Z">
+      <class name="kcpAcademy.MavenJava.RESTAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:kcpAcademy.MavenJava.RESTAPITest@60dcc9fe]" name="DeleteTwitter" duration-ms="1" started-at="2022-04-11T07:14:15Z" finished-at="2022-04-11T07:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:kcpAcademy.MavenJava.RESTAPITest@60dcc9fe]" name="postJira" duration-ms="0" started-at="2022-04-11T07:14:15Z" finished-at="2022-04-11T07:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- kcpAcademy.MavenJava.RESTAPITest -->
+      <class name="kcpAcademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:kcpAcademy.MavenJava.SeleniumTest@3c72f59f]" name="BrowserAutomation" duration-ms="12" started-at="2022-04-11T07:14:15Z" finished-at="2022-04-11T07:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:kcpAcademy.MavenJava.SeleniumTest@3c72f59f]" name="elementsUI" duration-ms="1" started-at="2022-04-11T07:14:15Z" finished-at="2022-04-11T07:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- kcpAcademy.MavenJava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
